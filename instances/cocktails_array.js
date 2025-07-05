@@ -2,7 +2,7 @@ cocktails_array=[
 new Cocktail({
   "id": 1,
   "available": 1,
-  "name": "Мохито ",
+  "name": "Мохито Хуихито",
   "strength": "Слабоалкогольный",
   "kind": "Лонг дринк",
   "flavor": "Сладкий",
