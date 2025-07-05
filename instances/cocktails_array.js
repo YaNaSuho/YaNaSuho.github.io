@@ -28,11 +28,11 @@ new Cocktail({
     ,
     [
       "Содовая",
-      " "
+      "доверху "
     ]
   ],
   "description": " ",
-  "recipe": "шейк"
+  "recipe": "шейк + лёд"
 }),
 new Cocktail({
   "id": 2,
